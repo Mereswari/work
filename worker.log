@@ -1,0 +1,2447 @@
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 07:29:24 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification  74.81ms DONE
+  2025-08-04 07:29:24 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification  29.07ms DONE
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 07:29:24 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification  94.55ms DONE
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification  18.20ms DONE
+  2025-08-04 07:29:24 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 07:29:24 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:29:24 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 07:29:24 App\Jobs\Notifications\SendPushNotification  261.66ms DONE
+  2025-08-04 07:29:24 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 07:29:24 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 07:29:25 App\Jobs\Notifications\AndroidPushNotification  677.26ms DONE
+  2025-08-04 07:29:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 07:29:25 App\Jobs\Notifications\AndroidPushNotification  665.50ms DONE
+  2025-08-04 07:29:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 07:29:25 App\Jobs\Notifications\AndroidPushNotification  686.87ms DONE
+  2025-08-04 07:29:25 App\Jobs\Notifications\AndroidPushNotification  107.04ms DONE
+  2025-08-04 07:29:25 App\Jobs\Notifications\AndroidPushNotification  200.99ms DONE
+  2025-08-04 07:29:32 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  7s FAIL
+  2025-08-04 07:29:32 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:29:36 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  2025-08-04 07:29:36 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification   11s FAIL
+ 11s FAIL
+  2025-08-04 07:29:36 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:29:36 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:29:37 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  12s FAIL
+  2025-08-04 07:29:37 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  12s FAIL
+  2025-08-04 07:29:37 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:29:37 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:29:44 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  12s FAIL
+  2025-08-04 07:29:44 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification   2025-08-04 07:29:44 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  8s FAIL
+ 8s FAIL
+  2025-08-04 07:29:44 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:29:44 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:29:44 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:29:45 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  2025-08-04 07:29:45 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  8s FAIL
+  8s FAIL
+  2025-08-04 07:29:45 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:29:45 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:29:48 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  3s FAIL
+  2025-08-04 07:29:48 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  4s FAIL
+  2025-08-04 07:29:48 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  4s FAIL
+  2025-08-04 07:29:49 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  3s FAIL
+  2025-08-04 07:29:49 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  3s FAIL
+  2025-08-04 07:56:31 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 07:56:31 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:56:31 App\Jobs\Notifications\SendPushNotification  26.97ms DONE
+  2025-08-04 07:56:31 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 07:56:32 App\Jobs\Notifications\AndroidPushNotification  645.84ms DONE
+  2025-08-04 07:56:39 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  7s FAIL
+  2025-08-04 07:56:39 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:56:51 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  11s FAIL
+  2025-08-04 07:56:51 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:56:55 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  4s FAIL
+  2025-08-04 07:57:34 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 07:57:34 App\Jobs\Notifications\SendPushNotification  12.61ms DONE
+  2025-08-04 07:57:34 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:57:35 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 07:57:35 App\Jobs\Notifications\AndroidPushNotification  149.73ms DONE
+  2025-08-04 07:57:43 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  8s FAIL
+  2025-08-04 07:57:43 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:57:55 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  12s FAIL
+  2025-08-04 07:57:55 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-04 07:57:59 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  3s FAIL
+  2025-08-04 07:58:40 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 07:58:40 App\Jobs\Notifications\SendPushNotification  25.77ms DONE
+  2025-08-04 07:58:40 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:58:41 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 07:58:41 App\Jobs\Notifications\AndroidPushNotification  306.19ms DONE
+  2025-08-04 07:58:48 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  8s FAIL
+  2025-08-04 07:58:48 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:59:00 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  12s FAIL
+  2025-08-04 07:59:00 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 07:59:04 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  4s FAIL
+  2025-08-04 08:56:44 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 08:56:44 App\Jobs\Notifications\SendPushNotification  2025-08-04 08:56:44 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  15.98ms DONE
+  RUNNING
+  2025-08-04 08:56:44 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 08:56:45 App\Jobs\Notifications\AndroidPushNotification  503.71ms DONE
+  2025-08-04 08:56:53 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  8s FAIL
+  2025-08-04 08:56:53 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 08:57:05 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  12s FAIL
+  2025-08-04 08:57:05 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-04 08:57:09 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  3s FAIL
+  2025-08-04 13:11:09 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:11:09 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-04 13:11:09 App\Jobs\Notifications\SendPushNotification  18.19ms DONE
+  2025-08-04 13:11:09 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:11:09 App\Jobs\ValidateAndGeneratePeakZone ...... 18.66ms DONE
+  2025-08-04 13:11:10 App\Jobs\Notifications\AndroidPushNotification  554.14ms DONE
+  2025-08-04 13:11:27 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:11:27 App\Jobs\Notifications\SendPushNotification  14.44ms DONE
+  2025-08-04 13:11:27 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:11:28 App\Jobs\Notifications\AndroidPushNotification  184.33ms DONE
+  2025-08-04 13:12:00 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:12:00 App\Jobs\Notifications\SendPushNotification  16.17ms DONE
+  2025-08-04 13:12:00 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:12:00 App\Jobs\Notifications\AndroidPushNotification  167.60ms DONE
+  2025-08-04 13:17:04 App\Jobs\Mails\SendWalletAmountMailNotification  RUNNING
+  2025-08-04 13:17:12 App\Jobs\Mails\SendWalletAmountMailNotification  7s FAIL
+  2025-08-04 13:17:12 App\Jobs\Mails\SendWalletAmountMailNotification  RUNNING
+  2025-08-04 13:17:24 App\Jobs\Mails\SendWalletAmountMailNotification  11s FAIL
+  2025-08-04 13:17:24 App\Jobs\Mails\SendWalletAmountMailNotification  RUNNING
+  2025-08-04 13:17:28 App\Jobs\Mails\SendWalletAmountMailNotification  3s FAIL
+  2025-08-04 13:22:00 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-04 13:22:01 App\Jobs\ValidateAndGeneratePeakZone ...... 22.47ms DONE
+  2025-08-04 13:26:16 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:26:16 App\Jobs\Notifications\SendPushNotification  11.58ms DONE
+  2025-08-04 13:26:16 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:26:16 App\Jobs\Notifications\AndroidPushNotification  207.60ms DONE
+  2025-08-04 13:26:22 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:26:22 App\Jobs\Notifications\SendPushNotification  7.07ms DONE
+  2025-08-04 13:26:22 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:26:22 App\Jobs\Notifications\AndroidPushNotification  161.85ms DONE
+  2025-08-04 13:34:09 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:34:09 App\Jobs\Notifications\SendPushNotification  25.51ms DONE
+  2025-08-04 13:34:09 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:34:09 App\Jobs\Notifications\AndroidPushNotification  214.82ms DONE
+  2025-08-04 13:35:45 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:35:45 App\Jobs\Notifications\SendPushNotification  26.28ms DONE
+  2025-08-04 13:35:45 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-04 13:35:45 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:35:45 App\Jobs\ValidateAndGeneratePeakZone ...... 18.99ms DONE
+  2025-08-04 13:35:45 App\Jobs\Notifications\AndroidPushNotification  278.21ms DONE
+  2025-08-04 13:35:57 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:35:57 App\Jobs\Notifications\SendPushNotification  12.79ms DONE
+  2025-08-04 13:35:57 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:35:57 App\Jobs\Notifications\AndroidPushNotification  271.86ms DONE
+  2025-08-04 13:36:11 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:36:11 App\Jobs\Notifications\SendPushNotification  16.75ms DONE
+  2025-08-04 13:36:11 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:36:11 App\Jobs\Notifications\AndroidPushNotification  497.96ms DONE
+  2025-08-04 13:38:51 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:38:51 App\Jobs\Notifications\SendPushNotification  15.07ms DONE
+  2025-08-04 13:38:51 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:38:52 App\Jobs\Notifications\AndroidPushNotification  236.84ms DONE
+  2025-08-04 13:40:11 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:40:11 App\Jobs\Notifications\SendPushNotification  27.69ms DONE
+  2025-08-04 13:40:11 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-04 13:40:11 App\Jobs\ValidateAndGeneratePeakZone ...... 15.55ms DONE
+  2025-08-04 13:40:11 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:40:11 App\Jobs\Notifications\AndroidPushNotification  299.24ms DONE
+  2025-08-04 13:40:17 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:40:17 App\Jobs\Notifications\SendPushNotification  11.78ms DONE
+  2025-08-04 13:40:17 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:40:17 App\Jobs\Notifications\AndroidPushNotification  233.68ms DONE
+  2025-08-04 13:40:23 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:40:23 App\Jobs\Notifications\SendPushNotification  19.26ms DONE
+  2025-08-04 13:40:23 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:40:23 App\Jobs\Notifications\AndroidPushNotification  126.44ms DONE
+  2025-08-04 13:40:39 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:40:39 App\Jobs\Notifications\SendPushNotification  15.63ms DONE
+  2025-08-04 13:40:39 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:40:40 App\Jobs\Notifications\AndroidPushNotification  233.80ms DONE
+  2025-08-04 13:41:07 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-04 13:41:07 App\Jobs\ValidateAndUpdateIncentivesJob ... 54.49ms DONE
+  2025-08-04 13:41:07 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-04 13:41:07 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-04 13:41:07 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  43.57ms DONE
+  2025-08-04 13:41:07 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:41:07 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-04 13:41:07 App\Jobs\Notifications\SendPushNotification  30.95ms DONE
+  2025-08-04 13:41:07 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:41:07 App\Jobs\Notifications\AndroidPushNotification  171.98ms DONE
+  2025-08-04 13:41:15 App\Jobs\Mails\SendUserInvoiceMailNotification . 8s FAIL
+  2025-08-04 13:41:15 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-04 13:41:19 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-04 13:41:19 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-04 13:41:27 App\Jobs\Mails\SendUserInvoiceMailNotification  2025-08-04 13:41:27 App\Jobs\Mails\SendDriverInvoiceMailNotification  11s FAIL
+  7s FAIL
+  2025-08-04 13:41:27 App\Jobs\Mails\SendUserInvoiceMailNotification  2025-08-04 13:41:27 App\Jobs\Mails\SendDriverInvoiceMailNotification  . RUNNING
+ RUNNING
+  2025-08-04 13:41:31 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-04 13:41:31 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-04 13:45:01 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-04 13:45:01 App\Jobs\ValidateAndGeneratePeakZone ...... 40.52ms DONE
+  2025-08-04 13:45:34 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:45:34 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-04 13:45:34 App\Jobs\Notifications\SendPushNotification  12.19ms DONE
+  2025-08-04 13:45:34 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:45:34 App\Jobs\ValidateAndGeneratePeakZone ...... 24.38ms DONE
+  2025-08-04 13:45:34 App\Jobs\Notifications\AndroidPushNotification  182.83ms DONE
+  2025-08-04 13:45:40 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:45:40 App\Jobs\Notifications\SendPushNotification  9.86ms DONE
+  2025-08-04 13:45:40 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:45:40 App\Jobs\Notifications\AndroidPushNotification  164.87ms DONE
+  2025-08-04 13:45:46 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:45:46 App\Jobs\Notifications\SendPushNotification  18.13ms DONE
+  2025-08-04 13:45:46 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:45:46 App\Jobs\Notifications\AndroidPushNotification  237.64ms DONE
+  2025-08-04 13:46:00 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:46:00 App\Jobs\Notifications\SendPushNotification  14.73ms DONE
+  2025-08-04 13:46:00 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:46:00 App\Jobs\Notifications\AndroidPushNotification  190.27ms DONE
+  2025-08-04 13:54:48 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-04 13:54:48 App\Jobs\ValidateAndGeneratePeakZone ....... 8.68ms DONE
+  2025-08-04 13:55:26 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:55:26 App\Jobs\Notifications\SendPushNotification  12.56ms DONE
+  2025-08-04 13:55:26 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:55:26 App\Jobs\Notifications\AndroidPushNotification  241.37ms DONE
+  2025-08-04 13:55:27 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:55:27 App\Jobs\Notifications\SendPushNotification  13.93ms DONE
+  2025-08-04 13:55:27 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:55:27 App\Jobs\Notifications\AndroidPushNotification  210.51ms DONE
+  2025-08-04 13:56:08 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:56:08 App\Jobs\Notifications\SendPushNotification  13.31ms DONE
+  2025-08-04 13:56:08 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:56:08 App\Jobs\Notifications\AndroidPushNotification  168.12ms DONE
+  2025-08-04 13:56:26 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:56:26 App\Jobs\Notifications\SendPushNotification  8.66ms DONE
+  2025-08-04 13:56:26 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:56:26 App\Jobs\Notifications\AndroidPushNotification  177.58ms DONE
+  2025-08-04 13:57:29 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:57:29 App\Jobs\Notifications\SendPushNotification  16.35ms DONE
+  2025-08-04 13:57:29 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:57:29 App\Jobs\Notifications\AndroidPushNotification  220.50ms DONE
+  2025-08-04 13:58:30 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 13:58:30 App\Jobs\Notifications\SendPushNotification  10.23ms DONE
+  2025-08-04 13:58:30 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 13:58:30 App\Jobs\Notifications\AndroidPushNotification  152.03ms DONE
+  2025-08-04 20:01:18 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-04 20:01:18 App\Jobs\Notifications\SendPushNotification  21.49ms DONE
+  2025-08-04 20:01:18 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 20:01:19 App\Jobs\Notifications\AndroidPushNotification  648.43ms DONE
+  2025-08-04 20:06:00 App\Jobs\Notifications\SendPushNotification  2025-08-04 20:06:00 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+ .... RUNNING
+  2025-08-04 20:06:00 App\Jobs\Notifications\SendPushNotification  11.14ms DONE
+  2025-08-04 20:06:00 App\Jobs\ValidateAndGeneratePeakZone ...... 14.37ms DONE
+  2025-08-04 20:06:00 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-04 20:06:00 App\Jobs\Notifications\AndroidPushNotification  168.38ms DONE
+  2025-08-05 11:39:41 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-05 11:39:41 App\Jobs\ValidateAndGeneratePeakZone ...... 10.12ms DONE
+  2025-08-05 11:42:26 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-05 11:42:26 App\Jobs\ValidateAndGeneratePeakZone ...... 11.15ms DONE
+  2025-08-06 09:52:59 App\Jobs\Mails\SendUserRegistationMailNotification  RUNNING
+  2025-08-06 09:53:07 App\Jobs\Mails\SendUserRegistationMailNotification  7s FAIL
+  2025-08-06 09:53:07 App\Jobs\Mails\SendUserRegistationMailNotification  RUNNING
+  2025-08-06 09:53:19 App\Jobs\Mails\SendUserRegistationMailNotification  11s FAIL
+  2025-08-06 09:53:19 App\Jobs\Mails\SendUserRegistationMailNotification  RUNNING
+  2025-08-06 09:53:23 App\Jobs\Mails\SendUserRegistationMailNotification  3s FAIL
+  2025-08-06 09:54:18 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-06 09:54:18 App\Jobs\ValidateAndGeneratePeakZone ....... 9.50ms DONE
+  2025-08-06 09:58:18 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 09:58:18 App\Jobs\Notifications\SendPushNotification  32.49ms DONE
+  2025-08-06 09:58:18 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 09:58:18 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-06 09:58:18 App\Jobs\ValidateAndGeneratePeakZone ...... 19.43ms DONE
+  2025-08-06 09:58:19 App\Jobs\Notifications\AndroidPushNotification  575.73ms DONE
+  2025-08-06 09:58:27 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 09:58:27 App\Jobs\Notifications\SendPushNotification  21.67ms DONE
+  2025-08-06 09:58:27 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 09:58:28 App\Jobs\Notifications\AndroidPushNotification  290.25ms DONE
+  2025-08-06 09:58:33 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 09:58:33 App\Jobs\Notifications\SendPushNotification  10.03ms DONE
+  2025-08-06 09:58:33 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 09:58:33 App\Jobs\Notifications\AndroidPushNotification  211.23ms DONE
+  2025-08-06 09:58:45 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 09:58:45 App\Jobs\Notifications\SendPushNotification  11.44ms DONE
+  2025-08-06 09:58:45 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 09:58:45 App\Jobs\Notifications\AndroidPushNotification  213.98ms DONE
+  2025-08-06 09:59:06 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-06 09:59:06 App\Jobs\ValidateAndUpdateIncentivesJob ... 58.69ms DONE
+  2025-08-06 09:59:06 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-06 09:59:06 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  32.39ms DONE
+  2025-08-06 09:59:06 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-06 09:59:06 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 09:59:06 App\Jobs\Notifications\SendPushNotification  18.94ms DONE
+  2025-08-06 09:59:06 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-06 09:59:07 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 09:59:07 App\Jobs\Notifications\AndroidPushNotification  203.81ms DONE
+  2025-08-06 09:59:15 App\Jobs\Mails\SendUserInvoiceMailNotification . 8s FAIL
+  2025-08-06 09:59:15 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-06 09:59:16 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 09:59:16 App\Jobs\Notifications\SendPushNotification  10.82ms DONE
+  2025-08-06 09:59:16 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 09:59:16 App\Jobs\Notifications\AndroidPushNotification  124.78ms DONE
+  2025-08-06 09:59:19 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-06 09:59:19 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-06 09:59:27 App\Jobs\Mails\SendDriverInvoiceMailNotification  8s FAIL
+  2025-08-06 09:59:27 App\Jobs\Mails\SendUserInvoiceMailNotification  12s FAIL
+  2025-08-06 09:59:27 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-06 09:59:27 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-06 09:59:31 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-06 09:59:31 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-06 12:37:40 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-06 12:37:40 App\Jobs\ValidateAndGeneratePeakZone ...... 18.07ms DONE
+  2025-08-06 13:05:09 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 13:05:09 App\Jobs\Notifications\SendPushNotification  29.31ms DONE
+  2025-08-06 13:05:09 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-06 13:05:09 App\Jobs\ValidateAndGeneratePeakZone ...... 24.17ms DONE
+  2025-08-06 13:05:09 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 13:05:10 App\Jobs\Notifications\AndroidPushNotification  715.76ms DONE
+  2025-08-06 13:05:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 13:05:24 App\Jobs\Notifications\SendPushNotification  15.54ms DONE
+  2025-08-06 13:05:24 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 13:05:24 App\Jobs\Notifications\AndroidPushNotification  285.73ms DONE
+  2025-08-06 13:05:37 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 13:05:37 App\Jobs\Notifications\SendPushNotification  13.69ms DONE
+  2025-08-06 13:05:37 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 13:05:37 App\Jobs\Notifications\AndroidPushNotification  192.52ms DONE
+  2025-08-06 13:06:10 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 13:06:10 App\Jobs\Notifications\SendPushNotification  9.93ms DONE
+  2025-08-06 13:06:10 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-06 13:06:10 App\Jobs\ValidateAndGeneratePeakZone ....... 9.13ms DONE
+  2025-08-06 13:06:10 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 13:06:11 App\Jobs\Notifications\AndroidPushNotification  193.54ms DONE
+  2025-08-06 13:06:20 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 13:06:20 App\Jobs\Notifications\SendPushNotification  11.69ms DONE
+  2025-08-06 13:06:20 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 13:06:20 App\Jobs\Notifications\AndroidPushNotification  195.60ms DONE
+  2025-08-06 13:06:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 13:06:24 App\Jobs\Notifications\SendPushNotification  22.97ms DONE
+  2025-08-06 13:06:24 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 13:06:24 App\Jobs\Notifications\AndroidPushNotification  196.20ms DONE
+  2025-08-06 13:06:48 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 13:06:48 App\Jobs\Notifications\SendPushNotification  16.06ms DONE
+  2025-08-06 13:06:48 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 13:06:48 App\Jobs\Notifications\AndroidPushNotification  291.45ms DONE
+  2025-08-06 13:06:57 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-06 13:06:57 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-06 13:06:57 App\Jobs\ValidateAndUpdateIncentivesJob ... 42.27ms DONE
+  2025-08-06 13:06:57 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-06 13:06:57 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-06 13:06:57 App\Jobs\Notifications\SendPushNotification  21.26ms DONE
+  2025-08-06 13:06:57 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-06 13:06:57 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-06 13:06:57 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  90.79ms DONE
+  2025-08-06 13:06:57 App\Jobs\Notifications\AndroidPushNotification  257.09ms DONE
+  2025-08-06 13:07:05 App\Jobs\Mails\SendUserInvoiceMailNotification . 7s FAIL
+  2025-08-06 13:07:05 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-06 13:07:09 App\Jobs\Mails\SendDriverInvoiceMailNotification  11s FAIL
+  2025-08-06 13:07:09 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-06 13:07:17 App\Jobs\Mails\SendDriverInvoiceMailNotification  8s FAIL
+  2025-08-06 13:07:17 App\Jobs\Mails\SendUserInvoiceMailNotification  12s FAIL
+  2025-08-06 13:07:17 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-06 13:07:17 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-06 13:07:21 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-06 13:07:21 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-07 09:48:42 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:48:42 App\Jobs\Notifications\SendPushNotification  11.10ms DONE
+  2025-08-07 09:48:42 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:48:43 App\Jobs\Notifications\AndroidPushNotification  547.38ms DONE
+  2025-08-07 09:49:52 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:49:52 App\Jobs\Notifications\SendPushNotification  10.30ms DONE
+  2025-08-07 09:49:52 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 09:49:52 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:49:52 App\Jobs\ValidateAndGeneratePeakZone ...... 13.26ms DONE
+  2025-08-07 09:49:52 App\Jobs\Notifications\AndroidPushNotification  157.16ms DONE
+  2025-08-07 09:50:07 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:50:07 App\Jobs\Notifications\SendPushNotification  33.82ms DONE
+  2025-08-07 09:50:07 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:50:08 App\Jobs\Notifications\AndroidPushNotification  273.31ms DONE
+  2025-08-07 09:50:31 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:50:31 App\Jobs\Notifications\SendPushNotification  10.40ms DONE
+  2025-08-07 09:50:31 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:50:31 App\Jobs\Notifications\AndroidPushNotification  158.67ms DONE
+  2025-08-07 09:51:05 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:51:05 App\Jobs\Notifications\SendPushNotification  19.19ms DONE
+  2025-08-07 09:51:05 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:51:05 App\Jobs\Notifications\AndroidPushNotification  186.38ms DONE
+  2025-08-07 09:51:28 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:51:28 App\Jobs\Notifications\SendPushNotification  11.54ms DONE
+  2025-08-07 09:51:28 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:51:28 App\Jobs\Notifications\AndroidPushNotification  228.73ms DONE
+  2025-08-07 09:51:34 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:51:34 App\Jobs\Notifications\SendPushNotification  11.97ms DONE
+  2025-08-07 09:51:34 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:51:34 App\Jobs\Notifications\AndroidPushNotification  101.13ms DONE
+  2025-08-07 09:51:52 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:51:52 App\Jobs\Notifications\SendPushNotification  8.82ms DONE
+  2025-08-07 09:51:52 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:51:52 App\Jobs\Notifications\AndroidPushNotification  92.31ms DONE
+  2025-08-07 09:53:25 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-07 09:53:25 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-07 09:53:25 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 09:53:25 App\Jobs\ValidateAndUpdateIncentivesJob ... 32.34ms DONE
+  2025-08-07 09:53:25 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  32.16ms DONE
+  2025-08-07 09:53:25 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:53:25 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 09:53:25 App\Jobs\Notifications\SendPushNotification  20.10ms DONE
+  2025-08-07 09:53:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:53:25 App\Jobs\Notifications\AndroidPushNotification  215.99ms DONE
+  2025-08-07 09:53:33 App\Jobs\Mails\SendUserInvoiceMailNotification . 7s FAIL
+  2025-08-07 09:53:33 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 09:53:37 App\Jobs\Mails\SendDriverInvoiceMailNotification  11s FAIL
+  2025-08-07 09:53:37 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 09:53:41 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:53:41 App\Jobs\Notifications\SendPushNotification  9.31ms DONE
+  2025-08-07 09:53:41 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:53:41 App\Jobs\Notifications\AndroidPushNotification  174.92ms DONE
+  2025-08-07 09:53:45 App\Jobs\Mails\SendUserInvoiceMailNotification  11s FAIL
+  2025-08-07 09:53:45 App\Jobs\Mails\SendDriverInvoiceMailNotification  8s FAIL
+  2025-08-07 09:53:45 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 09:53:45 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 09:53:49 App\Jobs\Mails\SendUserInvoiceMailNotification  2025-08-07 09:53:49 App\Jobs\Mails\SendDriverInvoiceMailNotification . 3s  3s FAIL
+ FAIL
+  2025-08-07 09:55:41 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 09:55:41 App\Jobs\Notifications\SendPushNotification  10.05ms DONE
+  2025-08-07 09:55:41 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 09:55:41 App\Jobs\ValidateAndGeneratePeakZone ....... 8.56ms DONE
+  2025-08-07 09:55:41 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 09:55:42 App\Jobs\Notifications\AndroidPushNotification  250.04ms DONE
+  2025-08-07 10:02:25 App\Jobs\Notifications\SendPushNotification  2025-08-07 10:02:25 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+ .... RUNNING
+  2025-08-07 10:02:25 App\Jobs\Notifications\SendPushNotification  2025-08-07 10:02:25 App\Jobs\ValidateAndGeneratePeakZone ...... 12.94ms DONE
+  12.45ms DONE
+  2025-08-07 10:02:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:02:26 App\Jobs\Notifications\AndroidPushNotification  165.15ms DONE
+  2025-08-07 10:02:37 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:02:37 App\Jobs\Notifications\SendPushNotification  9.04ms DONE
+  2025-08-07 10:02:37 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:02:38 App\Jobs\Notifications\AndroidPushNotification  211.74ms DONE
+  2025-08-07 10:03:11 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:03:11 App\Jobs\Notifications\SendPushNotification  10.02ms DONE
+  2025-08-07 10:03:11 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:03:13 App\Jobs\Notifications\AndroidPushNotification . 1s DONE
+  2025-08-07 10:04:12 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:04:12 App\Jobs\Notifications\SendPushNotification  9.97ms DONE
+  2025-08-07 10:04:12 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:04:12 App\Jobs\Notifications\AndroidPushNotification  217.53ms DONE
+  2025-08-07 10:06:41 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-07 10:06:41 App\Jobs\ValidateAndUpdateIncentivesJob ... 30.13ms DONE
+  2025-08-07 10:06:41 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-07 10:06:41 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 10:06:41 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  39.92ms DONE
+  2025-08-07 10:06:41 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:06:41 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 10:06:41 App\Jobs\Notifications\SendPushNotification  22.03ms DONE
+  2025-08-07 10:06:41 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:06:41 App\Jobs\Notifications\AndroidPushNotification  255.27ms DONE
+  2025-08-07 10:06:49 App\Jobs\Mails\SendUserInvoiceMailNotification . 7s FAIL
+  2025-08-07 10:06:49 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 10:06:53 App\Jobs\Mails\SendDriverInvoiceMailNotification  11s FAIL
+  2025-08-07 10:06:53 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 10:07:01 App\Jobs\Mails\SendDriverInvoiceMailNotification  2025-08-07 10:07:01 App\Jobs\Mails\SendUserInvoiceMailNotification  8s FAIL
+  12s FAIL
+  2025-08-07 10:07:01 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 10:07:01 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 10:07:05 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-07 10:07:05 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-07 10:08:25 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:08:25 App\Jobs\Notifications\SendPushNotification  22.15ms DONE
+  2025-08-07 10:08:25 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 10:08:25 App\Jobs\ValidateAndGeneratePeakZone ....... 9.84ms DONE
+  2025-08-07 10:08:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:08:25 App\Jobs\Notifications\AndroidPushNotification  173.08ms DONE
+  2025-08-07 10:08:39 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:08:39 App\Jobs\Notifications\SendPushNotification  10.74ms DONE
+  2025-08-07 10:08:39 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:08:40 App\Jobs\Notifications\AndroidPushNotification  155.54ms DONE
+  2025-08-07 10:09:25 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:09:25 App\Jobs\Notifications\SendPushNotification  10.03ms DONE
+  2025-08-07 10:09:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:09:25 App\Jobs\Notifications\AndroidPushNotification  121.69ms DONE
+  2025-08-07 10:09:44 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:09:44 App\Jobs\Notifications\SendPushNotification  11.15ms DONE
+  2025-08-07 10:09:44 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:09:44 App\Jobs\Notifications\AndroidPushNotification  164.80ms DONE
+  2025-08-07 10:10:07 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-07 10:10:07 App\Jobs\ValidateAndUpdateIncentivesJob .. 100.24ms DONE
+  2025-08-07 10:10:07 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-07 10:10:07 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  47.79ms DONE
+  2025-08-07 10:10:07 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 10:10:07 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:10:07 App\Jobs\Notifications\SendPushNotification  23.71ms DONE
+  2025-08-07 10:10:07 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 10:10:08 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:10:08 App\Jobs\Notifications\AndroidPushNotification  266.24ms DONE
+  2025-08-07 10:10:15 App\Jobs\Mails\SendUserInvoiceMailNotification . 7s FAIL
+  2025-08-07 10:10:15 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 10:10:19 App\Jobs\Mails\SendDriverInvoiceMailNotification  11s FAIL
+  2025-08-07 10:10:19 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 10:10:27 App\Jobs\Mails\SendDriverInvoiceMailNotification  7s FAIL
+  2025-08-07 10:10:27 App\Jobs\Mails\SendUserInvoiceMailNotification  11s FAIL
+  2025-08-07 10:10:27 App\Jobs\Mails\SendDriverInvoiceMailNotification  2025-08-07 10:10:27 App\Jobs\Mails\SendUserInvoiceMailNotification  RUNNING
+ . RUNNING
+  2025-08-07 10:10:31 App\Jobs\Mails\SendUserInvoiceMailNotification .  2025-08-07 10:10:31 App\Jobs\Mails\SendDriverInvoiceMailNotification 3s FAIL
+  4s FAIL
+  2025-08-07 10:56:34 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-07 10:56:34 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-07 10:56:34 App\Jobs\ValidateAndUpdateIncentivesJob ... 32.02ms DONE
+  2025-08-07 10:56:34 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 10:56:34 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  26.10ms DONE
+  2025-08-07 10:56:34 App\Jobs\Notifications\SendPushNotification  17.37ms DONE
+  2025-08-07 10:56:34 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 10:56:34 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 10:56:34 App\Jobs\Notifications\AndroidPushNotification  5.22ms DONE
+  2025-08-07 10:56:43 App\Jobs\Mails\SendDriverInvoiceMailNotification  8s FAIL
+  2025-08-07 10:56:43 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 10:56:55 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-07 10:56:55 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 10:56:59 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-07 11:07:26 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 11:07:26 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 11:07:26 App\Jobs\ValidateAndGeneratePeakZone ...... 48.95ms DONE
+  2025-08-07 11:07:26 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 11:07:26 App\Jobs\Notifications\SendPushNotification  131.36ms DONE
+  2025-08-07 11:07:27 App\Jobs\Notifications\AndroidPushNotification  752.34ms DONE
+  2025-08-07 11:07:32 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 11:07:32 App\Jobs\Notifications\SendPushNotification  10.76ms DONE
+  2025-08-07 11:07:32 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 11:07:32 App\Jobs\Notifications\AndroidPushNotification  251.43ms DONE
+  2025-08-07 11:07:53 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 11:07:53 App\Jobs\Notifications\SendPushNotification  15.58ms DONE
+  2025-08-07 11:07:53 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 11:07:53 App\Jobs\Notifications\AndroidPushNotification  232.89ms DONE
+  2025-08-07 11:08:17 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 11:08:17 App\Jobs\Notifications\SendPushNotification  17.69ms DONE
+  2025-08-07 11:08:17 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 11:08:17 App\Jobs\Notifications\AndroidPushNotification  258.47ms DONE
+  2025-08-07 11:09:35 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 11:09:35 App\Jobs\Notifications\SendPushNotification  10.91ms DONE
+  2025-08-07 11:09:35 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 11:09:36 App\Jobs\Notifications\AndroidPushNotification  179.81ms DONE
+  2025-08-07 11:14:45 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-07 11:14:45 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-07 11:14:45 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 11:14:45 App\Jobs\ValidateAndUpdateIncentivesJob ... 59.21ms DONE
+  2025-08-07 11:14:45 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 11:14:45 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  64.03ms DONE
+  2025-08-07 11:14:45 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 11:14:45 App\Jobs\Notifications\SendPushNotification  12.24ms DONE
+  2025-08-07 11:14:45 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 11:14:45 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 11:14:45 App\Jobs\Notifications\SendPushNotification  13.84ms DONE
+  2025-08-07 11:14:45 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 11:14:45 App\Jobs\Notifications\AndroidPushNotification  2025-08-07 11:14:45 App\Jobs\Notifications\AndroidPushNotification  228.88ms DONE
+  241.50ms DONE
+  2025-08-07 11:14:53 App\Jobs\Mails\SendUserInvoiceMailNotification . 8s FAIL
+  2025-08-07 11:14:53 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 11:14:57 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-07 11:14:57 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 11:15:05 App\Jobs\Mails\SendDriverInvoiceMailNotification  7s FAIL
+  2025-08-07 11:15:05 App\Jobs\Mails\SendUserInvoiceMailNotification  11s FAIL
+  2025-08-07 11:15:05 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 11:15:05 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 11:15:09 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-07 11:15:09 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-07 12:44:16 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 12:44:16 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 12:44:16 App\Jobs\Notifications\SendPushNotification  14.37ms DONE
+  2025-08-07 12:44:16 App\Jobs\Notifications\AndroidPushNotification  2025-08-07 12:44:16 App\Jobs\ValidateAndGeneratePeakZone ...... 15.45ms DONE
+ . RUNNING
+  2025-08-07 12:44:17 App\Jobs\Notifications\AndroidPushNotification  501.13ms DONE
+  2025-08-07 12:44:29 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 12:44:29 App\Jobs\Notifications\SendPushNotification  6.89ms DONE
+  2025-08-07 12:44:29 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 12:44:29 App\Jobs\Notifications\AndroidPushNotification  109.27ms DONE
+  2025-08-07 12:44:56 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 12:44:56 App\Jobs\Notifications\SendPushNotification  13.67ms DONE
+  2025-08-07 12:44:56 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 12:44:56 App\Jobs\Notifications\AndroidPushNotification  126.28ms DONE
+  2025-08-07 12:45:25 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 12:45:25 App\Jobs\Notifications\SendPushNotification  12.81ms DONE
+  2025-08-07 12:45:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 12:45:26 App\Jobs\Notifications\AndroidPushNotification  187.39ms DONE
+  2025-08-07 12:48:56 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-07 12:48:56 App\Jobs\ValidateAndUpdateIncentivesJob ... 39.13ms DONE
+  2025-08-07 12:48:56 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-07 12:48:56 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  19.64ms DONE
+  2025-08-07 12:48:57 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 12:48:59 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 12:48:59 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 12:48:59 App\Jobs\Notifications\SendPushNotification  17.23ms DONE
+  2025-08-07 12:48:59 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 12:48:59 App\Jobs\Notifications\AndroidPushNotification  157.52ms DONE
+  2025-08-07 12:49:05 App\Jobs\Mails\SendUserInvoiceMailNotification . 8s FAIL
+  2025-08-07 12:49:05 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 12:49:11 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-07 12:49:11 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 12:49:17 App\Jobs\Mails\SendUserInvoiceMailNotification  12s FAIL
+  2025-08-07 12:49:17 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 12:49:19 App\Jobs\Mails\SendDriverInvoiceMailNotification  8s FAIL
+  2025-08-07 12:49:19 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 12:49:21 App\Jobs\Mails\SendUserInvoiceMailNotification . 4s FAIL
+  2025-08-07 12:49:23 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 12:49:23 App\Jobs\Notifications\SendPushNotification  11.74ms DONE
+  2025-08-07 12:49:23 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 12:49:23 App\Jobs\Mails\SendDriverInvoiceMailNotification  4s FAIL
+  2025-08-07 12:49:23 App\Jobs\Notifications\AndroidPushNotification  158.86ms DONE
+  2025-08-07 12:53:14 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 12:53:14 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 12:53:14 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 12:53:14 App\Jobs\Notifications\SendPushNotification  2025-08-07 12:53:14 App\Jobs\Notifications\SendPushNotification  19.45ms DONE
+  19.96ms DONE
+  2025-08-07 12:53:14 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 12:53:14 App\Jobs\Notifications\AndroidPushNotification  164.32ms DONE
+  2025-08-07 12:53:14 App\Jobs\Notifications\AndroidPushNotification  183.61ms DONE
+  2025-08-07 18:34:54 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:34:55 App\Jobs\Notifications\SendPushNotification  13.51ms DONE
+  2025-08-07 18:34:55 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 18:34:55 App\Jobs\ValidateAndGeneratePeakZone ...... 11.18ms DONE
+  2025-08-07 18:34:55 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:34:55 App\Jobs\Notifications\AndroidPushNotification  681.26ms DONE
+  2025-08-07 18:35:05 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:35:05 App\Jobs\Notifications\SendPushNotification  28.66ms DONE
+  2025-08-07 18:35:05 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:35:05 App\Jobs\Notifications\AndroidPushNotification  354.56ms DONE
+  2025-08-07 18:35:23 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:35:23 App\Jobs\Notifications\SendPushNotification  15.50ms DONE
+  2025-08-07 18:35:23 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:35:24 App\Jobs\Notifications\AndroidPushNotification  207.47ms DONE
+  2025-08-07 18:35:42 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:35:42 App\Jobs\Notifications\SendPushNotification  12.31ms DONE
+  2025-08-07 18:35:42 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:35:42 App\Jobs\Notifications\AndroidPushNotification  184.29ms DONE
+  2025-08-07 18:36:48 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:36:48 App\Jobs\Notifications\SendPushNotification  18.51ms DONE
+  2025-08-07 18:36:48 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:36:48 App\Jobs\Notifications\AndroidPushNotification  176.75ms DONE
+  2025-08-07 18:37:15 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:37:15 App\Jobs\Notifications\SendPushNotification  11.79ms DONE
+  2025-08-07 18:37:15 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 18:37:15 App\Jobs\ValidateAndGeneratePeakZone ...... 11.56ms DONE
+  2025-08-07 18:37:15 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:37:15 App\Jobs\Notifications\AndroidPushNotification  258.52ms DONE
+  2025-08-07 18:37:25 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:37:25 App\Jobs\Notifications\SendPushNotification  15.37ms DONE
+  2025-08-07 18:37:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:37:25 App\Jobs\Notifications\AndroidPushNotification  244.45ms DONE
+  2025-08-07 18:37:43 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:37:43 App\Jobs\Notifications\SendPushNotification  11.73ms DONE
+  2025-08-07 18:37:43 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:37:43 App\Jobs\Notifications\AndroidPushNotification  161.62ms DONE
+  2025-08-07 18:38:12 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:38:12 App\Jobs\Notifications\SendPushNotification  12.05ms DONE
+  2025-08-07 18:38:12 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:38:12 App\Jobs\Notifications\AndroidPushNotification  116.56ms DONE
+  2025-08-07 18:38:54 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-07 18:38:54 App\Jobs\ValidateAndUpdateIncentivesJob ... 28.48ms DONE
+  2025-08-07 18:38:54 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-07 18:38:54 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 18:38:54 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  36.18ms DONE
+  2025-08-07 18:38:54 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:38:54 App\Jobs\Notifications\SendPushNotification  14.84ms DONE
+  2025-08-07 18:38:54 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 18:38:54 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:38:55 App\Jobs\Notifications\AndroidPushNotification  143.07ms DONE
+  2025-08-07 18:39:03 App\Jobs\Mails\SendUserInvoiceMailNotification . 8s FAIL
+  2025-08-07 18:39:03 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 18:39:07 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-07 18:39:07 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 18:39:15 App\Jobs\Mails\SendDriverInvoiceMailNotification  8s FAIL
+  2025-08-07 18:39:15 App\Jobs\Mails\SendUserInvoiceMailNotification  12s FAIL
+  2025-08-07 18:39:15 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 18:39:15 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 18:39:19 App\Jobs\Mails\SendUserInvoiceMailNotification . 4s FAIL
+  2025-08-07 18:39:19 App\Jobs\Mails\SendDriverInvoiceMailNotification  4s FAIL
+  2025-08-07 18:40:22 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 18:40:22 App\Jobs\ValidateAndGeneratePeakZone ...... 15.58ms DONE
+  2025-08-07 18:41:52 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 18:41:52 App\Jobs\ValidateAndGeneratePeakZone ...... 11.87ms DONE
+  2025-08-07 18:42:19 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:42:19 App\Jobs\Notifications\SendPushNotification  14.15ms DONE
+  2025-08-07 18:42:19 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:42:19 App\Jobs\Notifications\AndroidPushNotification  167.22ms DONE
+  2025-08-07 18:42:34 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:42:34 App\Jobs\Notifications\SendPushNotification  11.69ms DONE
+  2025-08-07 18:42:34 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:42:34 App\Jobs\Notifications\AndroidPushNotification  253.58ms DONE
+  2025-08-07 18:45:23 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:45:23 App\Jobs\Notifications\SendPushNotification  8.95ms DONE
+  2025-08-07 18:45:23 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:45:23 App\Jobs\Notifications\AndroidPushNotification  180.02ms DONE
+  2025-08-07 18:46:35 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 18:46:35 App\Jobs\ValidateAndGeneratePeakZone ...... 16.45ms DONE
+  2025-08-07 18:47:28 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:47:28 App\Jobs\Notifications\SendPushNotification  28.85ms DONE
+  2025-08-07 18:47:28 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:47:28 App\Jobs\Notifications\AndroidPushNotification  186.94ms DONE
+  2025-08-07 18:47:44 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:47:44 App\Jobs\Notifications\SendPushNotification  11.92ms DONE
+  2025-08-07 18:47:44 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:47:44 App\Jobs\Notifications\AndroidPushNotification  158.22ms DONE
+  2025-08-07 18:48:04 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:48:04 App\Jobs\Notifications\SendPushNotification  12.38ms DONE
+  2025-08-07 18:48:04 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:48:04 App\Jobs\Notifications\AndroidPushNotification  162.18ms DONE
+  2025-08-07 18:48:49 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-07 18:48:49 App\Jobs\ValidateAndUpdateIncentivesJob ... 20.88ms DONE
+  2025-08-07 18:48:49 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-07 18:48:49 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  14.38ms DONE
+  2025-08-07 18:48:49 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 18:48:49 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:48:49 App\Jobs\Notifications\SendPushNotification  16.33ms DONE
+  2025-08-07 18:48:49 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 18:48:50 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:48:50 App\Jobs\Notifications\AndroidPushNotification  160.42ms DONE
+  2025-08-07 18:48:58 App\Jobs\Mails\SendUserInvoiceMailNotification . 8s FAIL
+  2025-08-07 18:48:58 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 18:49:02 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-07 18:49:02 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 18:49:10 App\Jobs\Mails\SendDriverInvoiceMailNotification  2025-08-07 18:49:10 App\Jobs\Mails\SendUserInvoiceMailNotification  12s FAIL
+  8s FAIL
+  2025-08-07 18:49:10 App\Jobs\Mails\SendUserInvoiceMailNotification  2025-08-07 18:49:10 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+ . RUNNING
+  2025-08-07 18:49:11 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:49:11 App\Jobs\Notifications\SendPushNotification  12.18ms DONE
+  2025-08-07 18:49:11 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:49:11 App\Jobs\Notifications\AndroidPushNotification  107.27ms DONE
+  2025-08-07 18:49:14 App\Jobs\Mails\SendDriverInvoiceMailNotification  4s FAIL
+  2025-08-07 18:49:14 App\Jobs\Mails\SendUserInvoiceMailNotification . 4s FAIL
+  2025-08-07 18:51:14 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-07 18:51:14 App\Jobs\ValidateAndGeneratePeakZone ...... 24.37ms DONE
+  2025-08-07 18:52:02 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:52:02 App\Jobs\Notifications\SendPushNotification  2025-08-07 18:52:02 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  23.61ms DONE
+  2025-08-07 18:52:02 App\Jobs\Notifications\AndroidPushNotification  193.58ms DONE
+  2025-08-07 18:53:05 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:53:05 App\Jobs\Notifications\SendPushNotification  17.51ms DONE
+  2025-08-07 18:53:05 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:53:05 App\Jobs\Notifications\AndroidPushNotification  162.89ms DONE
+  2025-08-07 18:53:26 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:53:26 App\Jobs\Notifications\SendPushNotification  7.78ms DONE
+  2025-08-07 18:53:26 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:53:26 App\Jobs\Notifications\AndroidPushNotification  338.30ms DONE
+  2025-08-07 18:54:08 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:54:08 App\Jobs\Notifications\SendPushNotification  10.98ms DONE
+  2025-08-07 18:54:08 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:54:08 App\Jobs\Notifications\AndroidPushNotification  92.44ms DONE
+  2025-08-07 18:55:56 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-07 18:55:56 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-07 18:55:56 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  24.03ms DONE
+  2025-08-07 18:55:56 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 18:55:56 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:55:56 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 18:55:56 App\Jobs\Notifications\SendPushNotification  18.62ms DONE
+  2025-08-07 18:55:56 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:55:56 App\Jobs\ValidateAndUpdateIncentivesJob ... 98.36ms DONE
+  2025-08-07 18:55:56 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-07 18:55:56 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-07 18:55:56 App\Jobs\Notifications\SendPushNotification  120.03ms DONE
+  2025-08-07 18:55:56 App\Jobs\Notifications\AndroidPushNotification  146.22ms DONE
+  2025-08-07 18:55:57 App\Jobs\Notifications\AndroidPushNotification  195.14ms DONE
+  2025-08-07 18:56:05 App\Jobs\Mails\SendUserInvoiceMailNotification . 8s FAIL
+  2025-08-07 18:56:05 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 18:56:09 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-07 18:56:09 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 18:56:17 App\Jobs\Mails\SendDriverInvoiceMailNotification  2025-08-07 18:56:17 App\Jobs\Mails\SendUserInvoiceMailNotification  12s FAIL
+  8s FAIL
+  2025-08-07 18:56:17 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-07 18:56:17 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-07 18:56:21 App\Jobs\Mails\SendDriverInvoiceMailNotification  4s FAIL
+  2025-08-07 18:56:21 App\Jobs\Mails\SendUserInvoiceMailNotification . 4s FAIL
+  2025-08-08 04:46:30 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 04:46:30 App\Jobs\Notifications\SendPushNotification  12.15ms DONE
+  2025-08-08 04:46:30 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 04:46:31 App\Jobs\Notifications\AndroidPushNotification  570.67ms DONE
+  2025-08-08 04:48:12 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 04:48:12 App\Jobs\Notifications\SendPushNotification  10.12ms DONE
+  2025-08-08 04:48:12 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 04:48:12 App\Jobs\Notifications\AndroidPushNotification  158.39ms DONE
+  2025-08-08 08:49:27 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 08:49:27 App\Jobs\Notifications\SendPushNotification  14.50ms DONE
+  2025-08-08 08:49:27 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 08:49:27 App\Jobs\Notifications\AndroidPushNotification  653.59ms DONE
+  2025-08-08 08:51:12 App\Jobs\ValidateAndUpdateDriverLoyaltyJob .....  2025-08-08 08:51:12 App\Jobs\ValidateAndUpdateIncentivesJob RUNNING
+ ........ RUNNING
+  2025-08-08 08:51:12 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  25.85ms DONE
+  2025-08-08 08:51:12 App\Jobs\ValidateAndUpdateIncentivesJob ... 34.06ms DONE
+  2025-08-08 11:18:25 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 11:18:25 App\Jobs\Notifications\SendPushNotification  23.42ms DONE
+  2025-08-08 11:18:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 11:18:26 App\Jobs\Notifications\AndroidPushNotification  559.71ms DONE
+  2025-08-08 11:25:53 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 11:25:53 App\Jobs\Notifications\SendPushNotification  20.00ms DONE
+  2025-08-08 11:25:53 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 11:25:53 App\Jobs\Notifications\AndroidPushNotification  234.74ms DONE
+  2025-08-08 11:26:50 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 11:26:50 App\Jobs\Notifications\SendPushNotification  17.15ms DONE
+  2025-08-08 11:26:50 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 11:26:51 App\Jobs\Notifications\AndroidPushNotification  207.04ms DONE
+  2025-08-08 11:27:42 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 11:27:42 App\Jobs\Notifications\SendPushNotification  13.57ms DONE
+  2025-08-08 11:27:42 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 11:27:42 App\Jobs\Notifications\AndroidPushNotification  113.62ms DONE
+  2025-08-08 11:27:44 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 11:27:44 App\Jobs\Notifications\SendPushNotification  13.62ms DONE
+  2025-08-08 11:27:44 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 11:27:44 App\Jobs\Notifications\AndroidPushNotification  193.81ms DONE
+  2025-08-08 11:28:29 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 11:28:29 App\Jobs\Notifications\SendPushNotification  13.85ms DONE
+  2025-08-08 11:28:29 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 11:28:29 App\Jobs\Notifications\AndroidPushNotification  181.51ms DONE
+  2025-08-08 14:27:08 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-08 14:27:08 App\Jobs\Notifications\SendPushNotification  12.43ms DONE
+  2025-08-08 14:27:08 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-08 14:27:09 App\Jobs\Notifications\AndroidPushNotification  160.26ms DONE
+  2025-08-08 17:09:41 App\Jobs\Mails\SendUserRegistationMailNotification  RUNNING
+  2025-08-08 17:09:49 App\Jobs\Mails\SendUserRegistationMailNotification  8s FAIL
+  2025-08-08 17:09:49 App\Jobs\Mails\SendUserRegistationMailNotification  RUNNING
+  2025-08-08 17:10:01 App\Jobs\Mails\SendUserRegistationMailNotification  12s FAIL
+  2025-08-08 17:10:01 App\Jobs\Mails\SendUserRegistationMailNotification  RUNNING
+  2025-08-08 17:10:05 App\Jobs\Mails\SendUserRegistationMailNotification  4s FAIL
+  2025-08-09 07:42:21 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 07:42:21 App\Jobs\Notifications\SendPushNotification  15.40ms DONE
+  2025-08-09 07:42:21 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 07:42:21 App\Jobs\Notifications\AndroidPushNotification  324.01ms DONE
+  2025-08-09 07:44:44 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 07:44:44 App\Jobs\Notifications\SendPushNotification  11.35ms DONE
+  2025-08-09 07:44:44 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 07:44:44 App\Jobs\Notifications\AndroidPushNotification  225.42ms DONE
+  2025-08-09 16:01:51 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-09 16:01:51 App\Jobs\ValidateAndUpdateIncentivesJob ... 32.72ms DONE
+  2025-08-09 16:01:51 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-09 16:01:51 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  28.50ms DONE
+  2025-08-09 16:01:51 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 16:01:51 App\Jobs\Notifications\SendPushNotification  14.54ms DONE
+  2025-08-09 16:01:51 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-09 16:01:51 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 16:01:51 App\Jobs\Notifications\AndroidPushNotification  7.59ms DONE
+  2025-08-09 16:01:59 App\Jobs\Mails\SendDriverInvoiceMailNotification  7s FAIL
+  2025-08-09 16:01:59 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-09 16:02:11 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-09 16:02:11 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-09 16:02:15 App\Jobs\Mails\SendDriverInvoiceMailNotification  4s FAIL
+  2025-08-09 17:45:06 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 17:45:06 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-09 17:45:06 App\Jobs\Notifications\SendPushNotification  28.93ms DONE
+  2025-08-09 17:45:06 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 17:45:06 App\Jobs\ValidateAndGeneratePeakZone ...... 43.90ms DONE
+  2025-08-09 17:45:06 App\Jobs\Notifications\AndroidPushNotification  279.05ms DONE
+  2025-08-09 17:45:38 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 17:45:38 App\Jobs\Notifications\SendPushNotification  22.84ms DONE
+  2025-08-09 17:45:38 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 17:45:38 App\Jobs\Notifications\AndroidPushNotification  222.62ms DONE
+  2025-08-09 17:47:05 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 17:47:05 App\Jobs\Notifications\SendPushNotification  15.26ms DONE
+  2025-08-09 17:47:05 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 17:47:05 App\Jobs\Notifications\AndroidPushNotification  289.43ms DONE
+  2025-08-09 17:48:39 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 17:48:40 App\Jobs\Notifications\SendPushNotification  34.06ms DONE
+  2025-08-09 17:48:40 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 17:48:40 App\Jobs\Notifications\AndroidPushNotification  174.72ms DONE
+  2025-08-09 17:53:22 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 17:53:22 App\Jobs\Notifications\SendPushNotification  11.50ms DONE
+  2025-08-09 17:53:22 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 17:53:22 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 17:53:22 App\Jobs\Notifications\SendPushNotification  10.79ms DONE
+  2025-08-09 17:53:22 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 17:53:22 App\Jobs\Notifications\AndroidPushNotification  305.83ms DONE
+  2025-08-09 17:53:22 App\Jobs\Notifications\AndroidPushNotification  159.37ms DONE
+  2025-08-09 17:54:58 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-09 17:54:58 App\Jobs\ValidateAndUpdateIncentivesJob ... 27.85ms DONE
+  2025-08-09 17:54:58 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-09 17:54:58 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-09 17:54:58 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  38.78ms DONE
+  2025-08-09 17:54:58 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-09 17:54:58 App\Jobs\Notifications\SendPushNotification  22.92ms DONE
+  2025-08-09 17:54:58 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-09 17:54:58 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-09 17:54:58 App\Jobs\Notifications\AndroidPushNotification  189.09ms DONE
+  2025-08-09 17:55:06 App\Jobs\Mails\SendDriverInvoiceMailNotification  7s FAIL
+  2025-08-09 17:55:06 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-09 17:55:10 App\Jobs\Mails\SendUserInvoiceMailNotification  11s FAIL
+  2025-08-09 17:55:10 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-09 17:55:18 App\Jobs\Mails\SendDriverInvoiceMailNotification  2025-08-09 17:55:18 App\Jobs\Mails\SendUserInvoiceMailNotification .  11s 7s FAIL
+ FAIL
+  2025-08-09 17:55:18 App\Jobs\Mails\SendUserInvoiceMailNotification  2025-08-09 17:55:18 App\Jobs\Mails\SendDriverInvoiceMailNotification  . RUNNING
+ RUNNING
+  2025-08-09 17:55:22 App\Jobs\Mails\SendUserInvoiceMailNotification . 4s FAIL
+  2025-08-09 17:55:22 App\Jobs\Mails\SendDriverInvoiceMailNotification  4s FAIL
+  2025-08-10 18:48:11 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 18:48:11 App\Jobs\Notifications\SendPushNotification  11.61ms DONE
+  2025-08-10 18:48:11 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 18:48:11 App\Jobs\Notifications\AndroidPushNotification  291.63ms DONE
+  2025-08-10 18:50:32 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 18:50:32 App\Jobs\Notifications\SendPushNotification  34.39ms DONE
+  2025-08-10 18:50:32 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 18:50:32 App\Jobs\Notifications\AndroidPushNotification  337.44ms DONE
+  2025-08-10 18:54:19 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 18:54:19 App\Jobs\Notifications\SendPushNotification  14.58ms DONE
+  2025-08-10 18:54:19 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 18:54:20 App\Jobs\Notifications\AndroidPushNotification  214.67ms DONE
+  2025-08-10 19:00:50 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 19:00:50 App\Jobs\Notifications\SendPushNotification  20.32ms DONE
+  2025-08-10 19:00:50 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 19:00:50 App\Jobs\Notifications\AndroidPushNotification  210.75ms DONE
+  2025-08-10 19:01:19 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 19:01:19 App\Jobs\Notifications\SendPushNotification  11.17ms DONE
+  2025-08-10 19:01:19 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-10 19:01:19 App\Jobs\ValidateAndGeneratePeakZone ...... 13.21ms DONE
+  2025-08-10 19:01:19 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 19:01:20 App\Jobs\Notifications\AndroidPushNotification  202.27ms DONE
+  2025-08-10 19:01:25 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 19:01:25 App\Jobs\Notifications\SendPushNotification  17.58ms DONE
+  2025-08-10 19:01:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 19:01:25 App\Jobs\Notifications\AndroidPushNotification  280.83ms DONE
+  2025-08-10 19:01:30 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 19:01:30 App\Jobs\Notifications\SendPushNotification  15.04ms DONE
+  2025-08-10 19:01:30 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 19:01:30 App\Jobs\Notifications\AndroidPushNotification  199.41ms DONE
+  2025-08-10 19:01:43 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 19:01:43 App\Jobs\Notifications\SendPushNotification  11.58ms DONE
+  2025-08-10 19:01:43 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 19:01:43 App\Jobs\Notifications\AndroidPushNotification  181.54ms DONE
+  2025-08-10 19:01:51 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-10 19:01:51 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-10 19:01:51 App\Jobs\ValidateAndUpdateIncentivesJob ... 82.96ms DONE
+  2025-08-10 19:01:51 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-10 19:01:51 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 19:01:51 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  112.95ms DONE
+  2025-08-10 19:01:51 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-10 19:01:51 App\Jobs\Notifications\SendPushNotification  30.24ms DONE
+  2025-08-10 19:01:51 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 19:01:51 App\Jobs\Notifications\AndroidPushNotification  210.03ms DONE
+  2025-08-10 19:01:55 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-10 19:01:55 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-10 19:01:55 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-10 19:01:55 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-10 19:01:59 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-10 19:01:59 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-10 19:01:59 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-10 19:01:59 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-10 19:02:03 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-10 19:02:03 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-10 19:29:50 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 19:29:50 App\Jobs\Notifications\SendPushNotification  10.96ms DONE
+  2025-08-10 19:29:50 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-10 19:29:51 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 19:29:51 App\Jobs\Notifications\AndroidPushNotification  636.25ms DONE
+  2025-08-10 19:29:58 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  7s FAIL
+  2025-08-10 19:29:58 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-10 19:30:10 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  11s FAIL
+  2025-08-10 19:30:10 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  RUNNING
+  2025-08-10 19:30:14 App\Jobs\Mails\SendDriverWithdrawalAcceptMailNotification  3s FAIL
+  2025-08-10 19:40:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-10 19:40:25 App\Jobs\Notifications\SendPushNotification  13.51ms DONE
+  2025-08-10 19:40:25 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-10 19:40:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-10 19:40:25 App\Jobs\Notifications\AndroidPushNotification  223.93ms DONE
+  2025-08-10 19:40:33 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  8s FAIL
+  2025-08-10 19:40:33 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-10 19:40:45 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  11s FAIL
+  2025-08-10 19:40:45 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  RUNNING
+  2025-08-10 19:40:49 App\Jobs\Mails\SendDriverWithdrawalDeclineMailNotification  3s FAIL
+  2025-08-11 05:44:12 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 05:44:12 App\Jobs\Notifications\SendPushNotification  11.73ms DONE
+  2025-08-11 05:44:12 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 05:44:12 App\Jobs\Notifications\AndroidPushNotification  241.10ms DONE
+  2025-08-11 05:49:51 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 05:49:51 App\Jobs\Notifications\SendPushNotification  14.28ms DONE
+  2025-08-11 05:49:51 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 05:49:51 App\Jobs\Notifications\AndroidPushNotification  319.59ms DONE
+  2025-08-11 12:21:10 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-11 12:21:10 App\Jobs\ValidateAndGeneratePeakZone ...... 23.45ms DONE
+  2025-08-11 12:22:39 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-11 12:22:39 App\Jobs\ValidateAndGeneratePeakZone ...... 39.98ms DONE
+  2025-08-11 14:10:09 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-11 14:10:09 App\Jobs\ValidateAndGeneratePeakZone ...... 37.41ms DONE
+  2025-08-11 14:30:01 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 14:30:01 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 14:30:01 App\Jobs\Notifications\SendPushNotification  15.99ms DONE
+  2025-08-11 14:30:01 App\Jobs\Notifications\AndroidPushNotification  168.21ms DONE
+  2025-08-11 14:30:58 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 14:30:58 App\Jobs\Notifications\SendPushNotification  10.38ms DONE
+  2025-08-11 14:30:58 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 14:30:58 App\Jobs\Notifications\AndroidPushNotification  209.12ms DONE
+  2025-08-11 14:39:56 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 14:39:56 App\Jobs\Notifications\SendPushNotification  16.38ms DONE
+  2025-08-11 14:39:56 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-11 14:39:56 App\Jobs\ValidateAndGeneratePeakZone ...... 21.43ms DONE
+  2025-08-11 14:39:56 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 14:39:57 App\Jobs\Notifications\AndroidPushNotification  273.74ms DONE
+  2025-08-11 14:40:10 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 14:40:10 App\Jobs\Notifications\SendPushNotification  36.30ms DONE
+  2025-08-11 14:40:10 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 14:40:11 App\Jobs\Notifications\AndroidPushNotification  210.98ms DONE
+  2025-08-11 14:40:19 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 14:40:20 App\Jobs\Notifications\SendPushNotification  184.56ms DONE
+  2025-08-11 14:40:20 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 14:40:20 App\Jobs\Notifications\AndroidPushNotification  168.33ms DONE
+  2025-08-11 14:40:35 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 14:40:35 App\Jobs\Notifications\SendPushNotification  11.47ms DONE
+  2025-08-11 14:40:35 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 14:40:35 App\Jobs\Notifications\AndroidPushNotification  105.06ms DONE
+  2025-08-11 14:42:26 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  2025-08-11 14:42:26 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+ ..... RUNNING
+  2025-08-11 14:42:26 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  52.43ms DONE
+  2025-08-11 14:42:26 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-11 14:42:26 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 14:42:26 App\Jobs\ValidateAndUpdateIncentivesJob ... 85.50ms DONE
+  2025-08-11 14:42:26 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-11 14:42:26 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 14:42:26 App\Jobs\Notifications\SendPushNotification  84.40ms DONE
+  2025-08-11 14:42:26 App\Jobs\Notifications\AndroidPushNotification  216.01ms DONE
+  2025-08-11 14:42:34 App\Jobs\Mails\SendUserInvoiceMailNotification . 8s FAIL
+  2025-08-11 14:42:34 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-11 14:42:38 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-11 14:42:38 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-11 14:42:46 App\Jobs\Mails\SendUserInvoiceMailNotification  2025-08-11 14:42:46 App\Jobs\Mails\SendDriverInvoiceMailNotification  11s  7s FAIL
+ FAIL
+  2025-08-11 14:42:46 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-11 14:42:46 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-11 14:42:50 App\Jobs\Mails\SendUserInvoiceMailNotification . 4s FAIL
+  2025-08-11 14:42:50 App\Jobs\Mails\SendDriverInvoiceMailNotification  4s FAIL
+  2025-08-11 16:18:49 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-11 16:18:49 App\Jobs\ValidateAndGeneratePeakZone ...... 24.54ms DONE
+  2025-08-11 16:20:16 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-11 16:20:16 App\Jobs\ValidateAndGeneratePeakZone ...... 12.49ms DONE
+  2025-08-11 16:20:22 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 16:20:22 App\Jobs\Notifications\SendPushNotification  14.48ms DONE
+  2025-08-11 16:20:22 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 16:20:23 App\Jobs\Notifications\AndroidPushNotification  238.81ms DONE
+  2025-08-11 16:20:49 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 16:20:49 App\Jobs\Notifications\SendPushNotification  12.86ms DONE
+  2025-08-11 16:20:49 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 16:20:49 App\Jobs\Notifications\AndroidPushNotification  175.07ms DONE
+  2025-08-11 16:23:55 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-11 16:23:55 App\Jobs\ValidateAndGeneratePeakZone ....... 8.85ms DONE
+  2025-08-11 16:24:10 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 16:24:10 App\Jobs\Notifications\SendPushNotification  8.60ms DONE
+  2025-08-11 16:24:10 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 16:24:10 App\Jobs\Notifications\AndroidPushNotification  200.35ms DONE
+  2025-08-11 16:24:22 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 16:24:22 App\Jobs\Notifications\SendPushNotification  14.12ms DONE
+  2025-08-11 16:24:22 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 16:24:22 App\Jobs\Notifications\AndroidPushNotification  253.06ms DONE
+  2025-08-11 16:25:04 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 16:25:04 App\Jobs\Notifications\SendPushNotification  32.17ms DONE
+  2025-08-11 16:25:04 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 16:25:04 App\Jobs\Notifications\AndroidPushNotification  115.57ms DONE
+  2025-08-11 16:30:13 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 16:30:13 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 16:30:13 App\Jobs\Notifications\SendPushNotification  24.05ms DONE
+  2025-08-11 16:30:14 App\Jobs\Notifications\AndroidPushNotification  182.68ms DONE
+  2025-08-11 16:30:32 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-11 16:30:32 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-11 16:30:32 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-11 16:30:32 App\Jobs\ValidateAndUpdateIncentivesJob ... 40.36ms DONE
+  2025-08-11 16:30:32 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-11 16:30:32 App\Jobs\Notifications\SendPushNotification  17.44ms DONE
+  2025-08-11 16:30:32 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-11 16:30:32 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-11 16:30:32 App\Jobs\Notifications\AndroidPushNotification  122.71ms DONE
+  2025-08-11 16:30:32 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  308.16ms DONE
+  2025-08-11 16:30:40 App\Jobs\Mails\SendDriverInvoiceMailNotification  7s FAIL
+  2025-08-11 16:30:40 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-11 16:30:44 App\Jobs\Mails\SendUserInvoiceMailNotification  12s FAIL
+  2025-08-11 16:30:44 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-11 16:30:52 App\Jobs\Mails\SendUserInvoiceMailNotification . 8s FAIL
+  2025-08-11 16:30:52 App\Jobs\Mails\SendDriverInvoiceMailNotification  12s FAIL
+  2025-08-11 16:30:52 App\Jobs\Mails\SendUserInvoiceMailNotification  2025-08-11 16:30:52 App\Jobs\Mails\SendDriverInvoiceMailNotification . RUNNING
+  RUNNING
+  2025-08-11 16:30:56 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-11 16:30:56 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-12 18:02:49 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:02:49 App\Jobs\Notifications\SendPushNotification  20.74ms DONE
+  2025-08-12 18:02:49 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:02:49 App\Jobs\Notifications\AndroidPushNotification  247.05ms DONE
+  2025-08-12 18:07:48 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:07:48 App\Jobs\Notifications\SendPushNotification  13.41ms DONE
+  2025-08-12 18:07:48 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:07:48 App\Jobs\Notifications\AndroidPushNotification  225.55ms DONE
+  2025-08-12 18:17:05 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:17:05 App\Jobs\Notifications\SendPushNotification  17.24ms DONE
+  2025-08-12 18:17:05 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:17:05 App\Jobs\Notifications\AndroidPushNotification  252.06ms DONE
+  2025-08-12 18:20:35 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:20:35 App\Jobs\Notifications\SendPushNotification  10.69ms DONE
+  2025-08-12 18:20:35 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:20:35 App\Jobs\Notifications\AndroidPushNotification  198.38ms DONE
+  2025-08-12 18:21:16 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:21:16 App\Jobs\Notifications\SendPushNotification  15.03ms DONE
+  2025-08-12 18:21:16 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:21:16 App\Jobs\Notifications\AndroidPushNotification  189.29ms DONE
+  2025-08-12 18:30:51 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:30:51 App\Jobs\Notifications\SendPushNotification  12.21ms DONE
+  2025-08-12 18:30:51 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:30:51 App\Jobs\Notifications\AndroidPushNotification  250.47ms DONE
+  2025-08-12 18:31:33 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:31:33 App\Jobs\Notifications\SendPushNotification  12.09ms DONE
+  2025-08-12 18:31:33 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:31:33 App\Jobs\Notifications\AndroidPushNotification  233.42ms DONE
+  2025-08-12 18:36:05 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:36:05 App\Jobs\Notifications\SendPushNotification  13.69ms DONE
+  2025-08-12 18:36:05 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:36:05 App\Jobs\Notifications\AndroidPushNotification  233.90ms DONE
+  2025-08-12 18:38:38 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:38:38 App\Jobs\Notifications\SendPushNotification  10.08ms DONE
+  2025-08-12 18:38:38 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:38:39 App\Jobs\Notifications\AndroidPushNotification  184.73ms DONE
+  2025-08-12 18:45:31 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:45:31 App\Jobs\Notifications\SendPushNotification  12.54ms DONE
+  2025-08-12 18:45:31 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:45:31 App\Jobs\Notifications\AndroidPushNotification  159.24ms DONE
+  2025-08-12 18:49:29 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:49:29 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:49:29 App\Jobs\Notifications\SendPushNotification  13.23ms DONE
+  2025-08-12 18:49:30 App\Jobs\Notifications\AndroidPushNotification  146.03ms DONE
+  2025-08-12 18:52:21 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:52:21 App\Jobs\Notifications\SendPushNotification  13.22ms DONE
+  2025-08-12 18:52:21 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:52:21 App\Jobs\Notifications\AndroidPushNotification  275.77ms DONE
+  2025-08-12 18:54:06 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:54:06 App\Jobs\Notifications\SendPushNotification  12.98ms DONE
+  2025-08-12 18:54:06 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:54:06 App\Jobs\Notifications\AndroidPushNotification  200.31ms DONE
+  2025-08-12 18:54:30 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:54:30 App\Jobs\Notifications\SendPushNotification  12.95ms DONE
+  2025-08-12 18:54:30 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:54:30 App\Jobs\Notifications\AndroidPushNotification  214.24ms DONE
+  2025-08-12 18:56:16 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 18:56:16 App\Jobs\Notifications\SendPushNotification  12.07ms DONE
+  2025-08-12 18:56:16 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 18:56:16 App\Jobs\Notifications\AndroidPushNotification  177.68ms DONE
+  2025-08-12 19:01:43 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 19:01:43 App\Jobs\Notifications\SendPushNotification  14.18ms DONE
+  2025-08-12 19:01:43 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 19:01:43 App\Jobs\Notifications\AndroidPushNotification  179.97ms DONE
+  2025-08-12 19:06:43 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 19:06:43 App\Jobs\Notifications\SendPushNotification  11.53ms DONE
+  2025-08-12 19:06:43 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 19:06:43 App\Jobs\Notifications\AndroidPushNotification  197.59ms DONE
+  2025-08-12 19:07:56 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 19:07:56 App\Jobs\Notifications\SendPushNotification  12.54ms DONE
+  2025-08-12 19:07:56 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 19:07:56 App\Jobs\Notifications\AndroidPushNotification  123.88ms DONE
+  2025-08-12 19:28:44 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 19:28:44 App\Jobs\Notifications\SendPushNotification  11.12ms DONE
+  2025-08-12 19:28:44 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 19:28:44 App\Jobs\Notifications\AndroidPushNotification  140.24ms DONE
+  2025-08-12 19:29:28 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 19:29:28 App\Jobs\Notifications\SendPushNotification  14.13ms DONE
+  2025-08-12 19:29:28 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 19:29:28 App\Jobs\Notifications\AndroidPushNotification  156.83ms DONE
+  2025-08-12 19:34:23 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 19:34:23 App\Jobs\Notifications\SendPushNotification  10.31ms DONE
+  2025-08-12 19:34:23 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 19:34:23 App\Jobs\Notifications\AndroidPushNotification  209.72ms DONE
+  2025-08-12 19:45:10 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 19:45:10 App\Jobs\Notifications\SendPushNotification  29.24ms DONE
+  2025-08-12 19:45:10 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 19:45:10 App\Jobs\Notifications\AndroidPushNotification  172.10ms DONE
+  2025-08-12 19:45:26 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 19:45:26 App\Jobs\Notifications\SendPushNotification  11.93ms DONE
+  2025-08-12 19:45:26 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 19:45:26 App\Jobs\Notifications\AndroidPushNotification  173.99ms DONE
+  2025-08-12 22:38:21 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 22:38:21 App\Jobs\Notifications\SendPushNotification  15.04ms DONE
+  2025-08-12 22:38:21 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 22:38:22 App\Jobs\Notifications\AndroidPushNotification  206.24ms DONE
+  2025-08-12 22:38:54 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 22:38:54 App\Jobs\Notifications\SendPushNotification  15.31ms DONE
+  2025-08-12 22:38:54 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 22:38:55 App\Jobs\Notifications\AndroidPushNotification  214.25ms DONE
+  2025-08-12 22:39:18 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 22:39:18 App\Jobs\Notifications\SendPushNotification  12.19ms DONE
+  2025-08-12 22:39:18 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 22:39:18 App\Jobs\Notifications\AndroidPushNotification  204.38ms DONE
+  2025-08-12 22:45:15 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 22:45:15 App\Jobs\Notifications\SendPushNotification  21.36ms DONE
+  2025-08-12 22:45:15 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 22:45:15 App\Jobs\Notifications\AndroidPushNotification  187.82ms DONE
+  2025-08-12 22:53:03 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-12 22:53:03 App\Jobs\Notifications\SendPushNotification  10.64ms DONE
+  2025-08-12 22:53:03 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-12 22:53:03 App\Jobs\Notifications\AndroidPushNotification  203.90ms DONE
+  2025-08-13 15:23:38 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 15:23:38 App\Jobs\Notifications\SendPushNotification  34.18ms DONE
+  2025-08-13 15:23:38 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 15:23:38 App\Jobs\Notifications\AndroidPushNotification  210.02ms DONE
+  2025-08-13 18:00:59 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:00:59 App\Jobs\Notifications\SendPushNotification  14.96ms DONE
+  2025-08-13 18:00:59 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:00:59 App\Jobs\Notifications\AndroidPushNotification  183.91ms DONE
+  2025-08-13 18:03:52 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:03:52 App\Jobs\Notifications\SendPushNotification  10.05ms DONE
+  2025-08-13 18:03:52 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:03:53 App\Jobs\Notifications\AndroidPushNotification  245.73ms DONE
+  2025-08-13 18:08:12 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:08:12 App\Jobs\Notifications\SendPushNotification  10.45ms DONE
+  2025-08-13 18:08:12 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:08:13 App\Jobs\Notifications\AndroidPushNotification  184.36ms DONE
+  2025-08-13 18:13:26 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:13:26 App\Jobs\Notifications\SendPushNotification  19.93ms DONE
+  2025-08-13 18:13:26 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:13:26 App\Jobs\Notifications\AndroidPushNotification  171.73ms DONE
+  2025-08-13 18:13:58 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:13:58 App\Jobs\Notifications\SendPushNotification  18.90ms DONE
+  2025-08-13 18:13:58 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:13:58 App\Jobs\Notifications\AndroidPushNotification  199.88ms DONE
+  2025-08-13 18:18:53 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:18:53 App\Jobs\Notifications\SendPushNotification  24.35ms DONE
+  2025-08-13 18:18:53 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:18:54 App\Jobs\Notifications\AndroidPushNotification  264.61ms DONE
+  2025-08-13 18:21:18 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:21:18 App\Jobs\Notifications\SendPushNotification  11.64ms DONE
+  2025-08-13 18:21:18 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:21:18 App\Jobs\Notifications\AndroidPushNotification  161.61ms DONE
+  2025-08-13 18:29:12 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:29:12 App\Jobs\Notifications\SendPushNotification  17.24ms DONE
+  2025-08-13 18:29:12 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:29:12 App\Jobs\Notifications\AndroidPushNotification  195.54ms DONE
+  2025-08-13 18:29:13 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:29:13 App\Jobs\Notifications\SendPushNotification  13.70ms DONE
+  2025-08-13 18:29:13 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:29:13 App\Jobs\Notifications\AndroidPushNotification  165.29ms DONE
+  2025-08-13 18:43:10 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-13 18:43:10 App\Jobs\Notifications\SendPushNotification  11.64ms DONE
+  2025-08-13 18:43:10 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-13 18:43:10 App\Jobs\Notifications\AndroidPushNotification  221.93ms DONE
+  2025-08-14 03:18:30 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 03:18:30 App\Jobs\Notifications\SendPushNotification  14.13ms DONE
+  2025-08-14 03:18:30 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 03:18:31 App\Jobs\Notifications\AndroidPushNotification  254.85ms DONE
+  2025-08-14 03:23:19 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 03:23:19 App\Jobs\Notifications\SendPushNotification  11.45ms DONE
+  2025-08-14 03:23:19 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 03:23:19 App\Jobs\Notifications\AndroidPushNotification  183.78ms DONE
+  2025-08-14 03:36:37 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 03:36:37 App\Jobs\Notifications\SendPushNotification  13.71ms DONE
+  2025-08-14 03:36:37 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 03:36:38 App\Jobs\Notifications\AndroidPushNotification  265.09ms DONE
+  2025-08-14 03:38:20 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 03:38:20 App\Jobs\Notifications\SendPushNotification  15.65ms DONE
+  2025-08-14 03:38:20 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 03:38:20 App\Jobs\Notifications\AndroidPushNotification  236.44ms DONE
+  2025-08-14 03:39:21 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 03:39:21 App\Jobs\Notifications\SendPushNotification  12.26ms DONE
+  2025-08-14 03:39:21 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 03:39:21 App\Jobs\Notifications\AndroidPushNotification  215.98ms DONE
+  2025-08-14 03:43:05 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 03:43:05 App\Jobs\Notifications\SendPushNotification  11.07ms DONE
+  2025-08-14 03:43:05 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 03:43:05 App\Jobs\Notifications\AndroidPushNotification  203.72ms DONE
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+
+   Illuminate\Database\QueryException 
+   Illuminate\Database\QueryException 
+
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+   Illuminate\Database\QueryException 
+
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select table_name as `name`, (data_length + index_length) as `size`, table_comment as `comment`, engine as `engine`, table_collation as `collation` from information_schema.tables where table_schema = 'mereswari_final' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED') order by table_name)
+
+  at /home/mereswari/work/vendor/laravel/framework/src/Illuminate/Database/Connection.php:829
+    825▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    826▕                 );
+    827▕             }
+    828▕ 
+  ➜ 829▕             throw new QueryException(
+    830▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    831▕             );
+    832▕         }
+    833▕     }
+
+  1   [internal]:0
+      Illuminate\Foundation\Application::Illuminate\Foundation\{closure}(Object(App\Providers\AppServiceProvider))
+      [2m+19 vendor frames [22m
+
+  21  /home/mereswari/work/app/Providers/AppServiceProvider.php:51
+      Illuminate\Support\Facades\Facade::__callStatic("hasTable")
+
+  2025-08-14 15:32:06 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 15:32:06 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 15:32:06 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 15:32:06 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 15:32:06 App\Jobs\Notifications\SendPushNotification  113.96ms DONE
+  2025-08-14 15:32:06 App\Jobs\Notifications\SendPushNotification  2025-08-14 15:32:06 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 15:32:06 App\Jobs\Notifications\SendPushNotification  109.84ms DONE
+ .... RUNNING
+  2025-08-14 15:32:06 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 15:32:06 App\Jobs\Notifications\SendPushNotification  136.03ms DONE
+  2025-08-14 19:32:06 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 19:32:06 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-14 19:32:06 App\Jobs\Notifications\SendPushNotification .... 4h DONE
+  2025-08-14 19:32:06 App\Jobs\Notifications\SendPushNotification  31.52ms DONE
+  2025-08-14 19:32:06 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 19:32:06 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 19:32:06 App\Jobs\Notifications\SendPushNotification .... 4h DONE
+  2025-08-14 19:32:06 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification . 4h DONE
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification  674.13ms DONE
+ . 4h DONE
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification  203.09ms DONE
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification  634.60ms DONE
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification  651.79ms DONE
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification  97.68ms DONE
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification  93.99ms DONE
+  2025-08-14 19:32:07 App\Jobs\Notifications\AndroidPushNotification  647.68ms DONE
+  2025-08-15 06:20:23 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 06:20:23 App\Jobs\Notifications\SendPushNotification  32.04ms DONE
+  2025-08-15 06:20:23 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 06:20:24 App\Jobs\Notifications\AndroidPushNotification  585.95ms DONE
+  2025-08-15 08:10:28 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 08:10:28 App\Jobs\Notifications\SendPushNotification  32.44ms DONE
+  2025-08-15 08:10:28 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 08:10:29 App\Jobs\Notifications\AndroidPushNotification  632.70ms DONE
+  2025-08-15 08:12:44 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 08:12:44 App\Jobs\Notifications\SendPushNotification  13.38ms DONE
+  2025-08-15 08:12:44 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 08:12:44 App\Jobs\Notifications\AndroidPushNotification  204.98ms DONE
+  2025-08-15 09:18:13 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 09:18:13 App\Jobs\Notifications\SendPushNotification  25.85ms DONE
+  2025-08-15 09:18:13 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 09:18:14 App\Jobs\Notifications\AndroidPushNotification  604.17ms DONE
+  2025-08-15 09:19:17 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 09:19:17 App\Jobs\Notifications\SendPushNotification  20.31ms DONE
+  2025-08-15 09:19:17 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 09:19:17 App\Jobs\Notifications\AndroidPushNotification  216.96ms DONE
+  2025-08-15 09:27:53 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 09:27:53 App\Jobs\Notifications\SendPushNotification  29.23ms DONE
+  2025-08-15 09:27:53 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 09:27:53 App\Jobs\Notifications\AndroidPushNotification  253.58ms DONE
+  2025-08-15 09:28:50 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 09:28:50 App\Jobs\Notifications\SendPushNotification  31.22ms DONE
+  2025-08-15 09:28:50 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 09:28:50 App\Jobs\Notifications\AndroidPushNotification  196.93ms DONE
+  2025-08-15 10:55:21 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 10:55:21 App\Jobs\Notifications\SendPushNotification  21.94ms DONE
+  2025-08-15 10:55:21 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 10:55:22 App\Jobs\Notifications\AndroidPushNotification  516.63ms DONE
+  2025-08-15 10:57:01 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 10:57:01 App\Jobs\Notifications\SendPushNotification  12.87ms DONE
+  2025-08-15 10:57:01 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 10:57:01 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-15 10:57:01 App\Jobs\ValidateAndGeneratePeakZone ...... 14.54ms DONE
+  2025-08-15 10:57:01 App\Jobs\Notifications\AndroidPushNotification  199.51ms DONE
+  2025-08-15 10:57:06 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 10:57:06 App\Jobs\Notifications\SendPushNotification  15.49ms DONE
+  2025-08-15 10:57:06 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 10:57:06 App\Jobs\Notifications\AndroidPushNotification  160.28ms DONE
+  2025-08-15 10:57:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 10:57:24 App\Jobs\Notifications\SendPushNotification  40.83ms DONE
+  2025-08-15 10:57:24 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 10:57:24 App\Jobs\Notifications\AndroidPushNotification  234.67ms DONE
+  2025-08-15 10:57:46 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 10:57:46 App\Jobs\Notifications\SendPushNotification  10.42ms DONE
+  2025-08-15 10:57:46 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 10:57:46 App\Jobs\Notifications\AndroidPushNotification  167.87ms DONE
+  2025-08-15 11:00:48 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-15 11:00:48 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-15 11:00:48 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  69.27ms DONE
+  2025-08-15 11:00:48 App\Jobs\ValidateAndUpdateIncentivesJob ... 55.25ms DONE
+  2025-08-15 11:00:48 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-15 11:00:48 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-15 11:00:48 App\Jobs\Notifications\SendPushNotification  67.74ms DONE
+  2025-08-15 11:00:48 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-15 11:00:48 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-15 11:00:48 App\Jobs\Notifications\AndroidPushNotification  166.17ms DONE
+  2025-08-15 11:00:56 App\Jobs\Mails\SendDriverInvoiceMailNotification  7s FAIL
+  2025-08-15 11:00:56 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-15 11:01:00 App\Jobs\Mails\SendUserInvoiceMailNotification  11s FAIL
+  2025-08-15 11:01:00 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-15 11:01:08 App\Jobs\Mails\SendUserInvoiceMailNotification . 7s FAIL
+  2025-08-15 11:01:08 App\Jobs\Mails\SendDriverInvoiceMailNotification  11s FAIL
+  2025-08-15 11:01:08 App\Jobs\Mails\SendUserInvoiceMailNotification . RUNNING
+  2025-08-15 11:01:08 App\Jobs\Mails\SendDriverInvoiceMailNotification  RUNNING
+  2025-08-15 11:01:12 App\Jobs\Mails\SendDriverInvoiceMailNotification  3s FAIL
+  2025-08-15 11:01:12 App\Jobs\Mails\SendUserInvoiceMailNotification . 3s FAIL
+  2025-08-16 13:41:48 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-16 13:41:48 App\Jobs\Notifications\SendPushNotification  18.37ms DONE
+  2025-08-16 13:41:48 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-16 13:41:49 App\Jobs\Notifications\AndroidPushNotification  556.77ms DONE
+  2025-08-16 15:12:27 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-16 15:12:27 App\Jobs\Notifications\SendPushNotification  16.49ms DONE
+  2025-08-16 15:12:27 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-16 15:12:28 App\Jobs\Notifications\AndroidPushNotification  609.14ms DONE
+  2025-08-16 17:22:21 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-16 17:22:21 App\Jobs\Notifications\SendPushNotification  15.37ms DONE
+  2025-08-16 17:22:21 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-16 17:22:22 App\Jobs\Notifications\AndroidPushNotification  631.58ms DONE
+  2025-08-16 17:24:02 App\Jobs\ValidateAndUpdateIncentivesJob ........ RUNNING
+  2025-08-16 17:24:02 App\Jobs\ValidateAndUpdateIncentivesJob ... 89.00ms DONE
+  2025-08-16 17:24:02 App\Jobs\ValidateAndUpdateDriverLoyaltyJob ..... RUNNING
+  2025-08-16 17:24:03 App\Jobs\ValidateAndUpdateDriverLoyaltyJob  29.30ms DONE
+  2025-08-17 08:12:25 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-17 08:12:25 App\Jobs\Notifications\SendPushNotification  14.77ms DONE
+  2025-08-17 08:12:25 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-17 08:12:26 App\Jobs\Notifications\AndroidPushNotification  524.12ms DONE
+  2025-08-17 16:06:59 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-17 16:06:59 App\Jobs\ValidateAndGeneratePeakZone ........... RUNNING
+  2025-08-17 16:06:59 App\Jobs\Notifications\SendPushNotification  72.67ms DONE
+  2025-08-17 16:06:59 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-17 16:06:59 App\Jobs\ValidateAndGeneratePeakZone ..... 133.06ms DONE
+  2025-08-17 16:06:59 App\Jobs\Notifications\AndroidPushNotification  375.47ms DONE
+  2025-08-17 16:08:01 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-17 16:08:02 App\Jobs\Notifications\SendPushNotification  157.53ms DONE
+  2025-08-17 16:08:02 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-17 16:08:02 App\Jobs\Notifications\AndroidPushNotification  467.38ms DONE
+  2025-08-18 09:32:28 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-18 09:32:28 App\Jobs\Notifications\SendPushNotification  59.41ms DONE
+  2025-08-18 09:32:28 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-18 09:32:28 App\Jobs\Notifications\AndroidPushNotification  342.72ms DONE
+  2025-08-18 09:32:37 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-18 09:32:37 App\Jobs\Notifications\SendPushNotification  75.25ms DONE
+  2025-08-18 09:32:37 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-18 09:32:37 App\Jobs\Notifications\AndroidPushNotification  315.81ms DONE
+  2025-08-18 11:35:24 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-18 11:35:24 App\Jobs\Notifications\SendPushNotification  158.54ms DONE
+  2025-08-18 11:35:24 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-18 11:35:25 App\Jobs\Notifications\AndroidPushNotification  335.08ms DONE
+  2025-08-18 19:54:38 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-18 19:54:38 App\Jobs\Notifications\SendPushNotification  88.79ms DONE
+  2025-08-18 19:54:38 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-18 19:54:38 App\Jobs\Notifications\AndroidPushNotification  8.58ms DONE
+  2025-08-18 20:14:10 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-18 20:14:10 App\Jobs\Notifications\SendPushNotification  14.74ms DONE
+  2025-08-18 20:14:10 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-18 20:14:10 App\Jobs\Notifications\AndroidPushNotification  201.52ms DONE
+  2025-08-19 12:51:55 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-19 12:52:03 App\Jobs\Mails\SendDriverWalletAmountMailNotification  8s FAIL
+  2025-08-19 12:52:03 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-19 12:52:15 App\Jobs\Mails\SendDriverWalletAmountMailNotification  11s FAIL
+  2025-08-19 12:52:15 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-19 12:52:19 App\Jobs\Mails\SendDriverWalletAmountMailNotification  3s FAIL
+  2025-08-19 14:54:06 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-19 14:54:15 App\Jobs\Mails\SendDriverWalletAmountMailNotification  8s FAIL
+  2025-08-19 14:54:15 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-19 14:54:27 App\Jobs\Mails\SendDriverWalletAmountMailNotification  12s FAIL
+  2025-08-19 14:54:27 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-19 14:54:31 App\Jobs\Mails\SendDriverWalletAmountMailNotification  3s FAIL
+  2025-08-19 19:22:58 App\Jobs\Notifications\SendPushNotification .... RUNNING
+  2025-08-19 19:22:58 App\Jobs\Notifications\SendPushNotification  16.56ms DONE
+  2025-08-19 19:22:58 App\Jobs\Notifications\AndroidPushNotification . RUNNING
+  2025-08-19 19:22:58 App\Jobs\Notifications\AndroidPushNotification  5.27ms DONE
+  2025-08-20 11:04:23 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 11:04:31 App\Jobs\Mails\SendDriverWalletAmountMailNotification  8s FAIL
+  2025-08-20 11:04:31 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 11:04:43 App\Jobs\Mails\SendDriverWalletAmountMailNotification  11s FAIL
+  2025-08-20 11:04:43 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 11:04:52 App\Jobs\Mails\SendDriverWalletAmountMailNotification  9s FAIL
+  2025-08-20 11:43:42 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 11:43:50 App\Jobs\Mails\SendDriverWalletAmountMailNotification  7s FAIL
+  2025-08-20 11:43:50 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 11:44:02 App\Jobs\Mails\SendDriverWalletAmountMailNotification  12s FAIL
+  2025-08-20 11:44:02 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 11:44:06 App\Jobs\Mails\SendDriverWalletAmountMailNotification  3s FAIL
+  2025-08-20 13:39:34 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:39:42 App\Jobs\Mails\SendDriverWalletAmountMailNotification  7s FAIL
+  2025-08-20 13:39:42 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:39:54 App\Jobs\Mails\SendDriverWalletAmountMailNotification  12s FAIL
+  2025-08-20 13:39:54 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:39:58 App\Jobs\Mails\SendDriverWalletAmountMailNotification  3s FAIL
+  2025-08-20 13:43:54 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:44:02 App\Jobs\Mails\SendDriverWalletAmountMailNotification  7s FAIL
+  2025-08-20 13:44:02 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:44:14 App\Jobs\Mails\SendDriverWalletAmountMailNotification  11s FAIL
+  2025-08-20 13:44:14 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:44:18 App\Jobs\Mails\SendDriverWalletAmountMailNotification  4s FAIL
+  2025-08-20 13:45:19 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:45:27 App\Jobs\Mails\SendDriverWalletAmountMailNotification  7s FAIL
+  2025-08-20 13:45:27 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:45:39 App\Jobs\Mails\SendDriverWalletAmountMailNotification  12s FAIL
+  2025-08-20 13:45:39 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:45:43 App\Jobs\Mails\SendDriverWalletAmountMailNotification  4s FAIL
+  2025-08-20 13:47:37 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:47:45 App\Jobs\Mails\SendDriverWalletAmountMailNotification  7s FAIL
+  2025-08-20 13:47:45 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:47:57 App\Jobs\Mails\SendDriverWalletAmountMailNotification  12s FAIL
+  2025-08-20 13:47:57 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:48:01 App\Jobs\Mails\SendDriverWalletAmountMailNotification  4s FAIL
+  2025-08-20 13:50:07 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:50:16 App\Jobs\Mails\SendDriverWalletAmountMailNotification  8s FAIL
+  2025-08-20 13:50:16 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:50:28 App\Jobs\Mails\SendDriverWalletAmountMailNotification  12s FAIL
+  2025-08-20 13:50:28 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 13:50:32 App\Jobs\Mails\SendDriverWalletAmountMailNotification  4s FAIL
+  2025-08-20 15:43:38 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 15:43:46 App\Jobs\Mails\SendDriverWalletAmountMailNotification  7s FAIL
+  2025-08-20 15:43:46 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 15:43:58 App\Jobs\Mails\SendDriverWalletAmountMailNotification  12s FAIL
+  2025-08-20 15:43:58 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 15:44:02 App\Jobs\Mails\SendDriverWalletAmountMailNotification  4s FAIL
+  2025-08-20 17:23:06 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 17:23:15 App\Jobs\Mails\SendDriverWalletAmountMailNotification  8s FAIL
+  2025-08-20 17:23:15 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 17:23:27 App\Jobs\Mails\SendDriverWalletAmountMailNotification  12s FAIL
+  2025-08-20 17:23:27 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 17:23:31 App\Jobs\Mails\SendDriverWalletAmountMailNotification  4s FAIL
+  2025-08-20 17:37:29 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 17:37:37 App\Jobs\Mails\SendDriverWalletAmountMailNotification  8s FAIL
+  2025-08-20 17:37:37 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 17:37:49 App\Jobs\Mails\SendDriverWalletAmountMailNotification  11s FAIL
+  2025-08-20 17:37:49 App\Jobs\Mails\SendDriverWalletAmountMailNotification  RUNNING
+  2025-08-20 17:37:53 App\Jobs\Mails\SendDriverWalletAmountMailNotification  3s FAIL
